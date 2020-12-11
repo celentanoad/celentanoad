@@ -18,6 +18,6 @@
 
 <hr>
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celentanoad&show_icons=true&locale=en&theme=slateorange" alt="celentanoad" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celentanoad&show_icons=true&locale=en&theme=slateorange&hide=stars" alt="celentanoad" /></div>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celentanoad&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="celentanoad" /></div>
