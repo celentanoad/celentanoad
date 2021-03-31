@@ -6,7 +6,7 @@
 <h3 align="center">I am a software developer who enjoys finding solutions to problems and seeking out answers from different perspectives. Coming from a background in social work, I am passionate about improving efficiency and motivated by making things work for people. I strive to always learn more through communicating with others and working with a team.</h3>
 <hr>
 
-- I’m currently learning **Redux and React custom hooks**
+- I’m currently learning **TypeScript, Redux and React custom hooks**
 
 - All of my projects are available on my personal website:  **[www.alannacelentano.com](https://www.alannacelentano.com)**
 
