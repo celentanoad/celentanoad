@@ -12,7 +12,7 @@
 
 - You can contact me at: **celentanoad91@gmail.com**
 
-- View my experience here: [Resume](https://docs.google.com/document/d/1DzU0RhrWPPoPhbqs50U9sWM8RMPTfyqisIVEBFWGNZw/edit)
+- View my experience here: [Resume](https://docs.google.com/document/d/1HrXDHFm8Q0NbEfXLf1r2HSvjqtD1At1TgQUYoj6ECXg/edit?usp=sharing)
 
 - Connect with me on LinkedIn: <a href="https://linkedin.com/in/alanna-celentano" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png" alt="alanna-celentano" height="30" /> </a>
 
