@@ -64,10 +64,3 @@ Passionate about delivering intuitive user experiences and collaborating across 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celentanoad&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="celentanoad" />
   </div>
 </details>
-
----
-
-<details>
-  <summary>✨ Fun Fact</summary>
-  <p>I once built an app to help connect people with local volunteer opportunities. Outside of tech, I love hiking and painting!</p>
-</details>
